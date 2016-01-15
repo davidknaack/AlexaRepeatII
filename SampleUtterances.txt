@@ -1,0 +1,4 @@
+SAY say {something|Phrase}
+SAY say {what is the thing|Phrase}
+SAY say {how does walrus clam cat shell|Phrase}
+SAY say {are there apple ball when that all mine|Phrase}
